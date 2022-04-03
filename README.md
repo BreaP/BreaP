@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BreaP
 - 👀 I’m interested in learning different programming languages.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on I'm new to Git Hub so I'm exploring first getting adjusted to using GitHub.
+- 💞️ I'm new to Git Hub so I'm exploring first getting adjusted to using GitHub.
 - 📫 Nice to meet you!
 
 <!---
